@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-07-03T21:15:12.077622+05:30",
+    "rating": 3,
+    "comment": "ok",
+    "session_id": "bb30cd53"
+  },
+  {
+    "timestamp": "2026-07-03T21:23:21.551775+05:30",
+    "rating": 4,
+    "comment": "good",
+    "session_id": "53527692"
+  },
+  {
+    "timestamp": "2026-07-03T21:29:29.774799+05:30",
+    "rating": 4,
+    "comment": "well satisfied",
+    "session_id": "7c907cb0"
+  }
+]

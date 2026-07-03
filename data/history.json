@@ -1,0 +1,36 @@
+[
+  {
+    "timestamp": "2026-07-03T21:21:25.713013+05:30",
+    "event_description": "Ai for sustainable cities",
+    "interests": [
+      "climate change"
+    ],
+    "categories": [
+      "Sustainability",
+      "Urban Planning",
+      "Artificial Intelligence"
+    ],
+    "conversation_starters": [
+      "Generate professional networking conversation starters for an event about Sustainability, Urban Planning, Artificial Intelligence.",
+      "The attendee is interested in climate change.",
+      "The Urban Council of California\n\nLocation: California Fairgrounds, Anaheim, CA\n\nJoin the Urban Council of California as it works to build a diverse and innovative program that will encourage local residents to consider how their local neighborhoods, cities, and their communities can all have a voice in shaping our future."
+    ]
+  },
+  {
+    "timestamp": "2026-07-03T21:27:42.972480+05:30",
+    "event_description": "AI for sustainability",
+    "interests": [
+      "climate change"
+    ],
+    "categories": [
+      "Sustainability",
+      "Social Impact",
+      "Artificial Intelligence"
+    ],
+    "conversation_starters": [
+      "Generate professional networking conversation starters for an event about Sustainability, Social Impact, Artificial Intelligence. The attendee is interested in climate change.",
+      "The Sustainability Forum",
+      "Global Warming: A Multipurpose Report"
+    ]
+  }
+]
